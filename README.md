@@ -5,6 +5,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Neural-Machine-Translation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Neural-Machine-Translation?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Neural-Machine-Translation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Neural-Machine-Translation/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutt22007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 <p align="center">
@@ -27,7 +28,9 @@ Welcome to the ultimate curated list of **Neural Machine Translation (NMT) APIs*
 - [🧠 Open-Source Repositories & Frameworks](#-open-source-repositories--frameworks)
 - [🛠️ Integration & Deployment Guide](#-integration--deployment-guide)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [⭐ Star History](#-star-history)
 
 ---
 
@@ -116,11 +119,27 @@ Contributions are welcome! Please help keep this repository accurate, up-to-date
 
 ---
 
+## 💖 Support & Sponsorship
+
+Thank you for exploring **Awesome Neural Machine Translation**! If this repository has saved you time, helped you evaluate NMT frameworks, or supported your localization infrastructure, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to increase its visibility.
+- 🔀 **Fork & Share** with your network, team, and developer communities.
+- ☕ **Sponsor / Buy me a Coffee:** Support ongoing maintenance, updates, and ecosystem research via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
 ## ⚠️ Disclaimer
 
 - **Community Curated:** This list is maintained for information and educational purposes only.
 - **Data Privacy & Security:** Cloud translation APIs process data on vendor servers. For strict data compliance (HIPAA, GDPR, SOC2), utilize self-hosted engines such as LibreTranslate or secure enterprise options like Systran.
 - **Pricing Subject to Change:** Pricing plans and free quotas are verified periodically; check official vendor pages for current details.
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Neural-Machine-Translation&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Neural-Machine-Translation&type=date&legend=top-left)
 
 ---
 

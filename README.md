@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Neural-Machine-Translation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Neural-Machine-Translation?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Neural-Machine-Translation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Neural-Machine-Translation?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Neural-Machine-Translation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Neural-Machine-Translation/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutt22007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -57,9 +57,9 @@ The table below highlights top commercial NMT APIs and TMS solutions, sorted by 
 
 ## 🧠 Open-Source Repositories & Frameworks
 
-Open-source neural machine translation offers total data privacy, customization, and cost sovereignty. Below is the curated list of top open-source NMT engines, inference runtimes, and localization platforms, sorted by **GitHub Stars (Descending)**:
+Open-source neural machine translation offers total data privacy, customization, and cost sovereignty. Below is the curated list of top open-source NMT engines, inference runtimes, and localization platforms, sorted by **GitHub_Stars (Descending)**:
 
-| 📦 Repository / Framework | ⭐ GitHub Stars | 📜 License | 🎯 Description & Primary Use Case |
+| 📦 Repository / Framework | ⭐ GitHub_Stars | 📜 License | 🎯 Description & Primary Use Case |
 | :--- | :---: | :---: | :--- |
 | **[fairseq](https://github.com/facebookresearch/fairseq)** | [![fairseq Stars](https://img.shields.io/github/stars/facebookresearch/fairseq?style=social&color=white)](https://github.com/facebookresearch/fairseq/stargazers) | `MIT` | Meta AI's sequence-to-sequence toolkit for custom NMT training, translation model research, and sequence generation. |
 | **[LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)** | [![LibreTranslate Stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate?style=social&color=white)](https://github.com/LibreTranslate/LibreTranslate/stargazers) | `AGPL-3.0` | Free and open-source self-hosted translation API. Offline capable, powered by Argos Translate with Docker 1-command setup. |
@@ -114,7 +114,7 @@ Contributions are welcome! Please help keep this repository accurate, up-to-date
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add/Modify** entries in `README.md` following the tabular schema.
-3. 📌 Ensure pricing, free tier limits, and GitHub star badges follow the standard format.
+3. 📌 Ensure pricing, free tier limits, and GitHub Stars_Badges follow the standard format.
 4. 🚀 **Submit a Pull Request** with a brief summary of additions.
 
 ---
